@@ -1,0 +1,156 @@
+{
+  "projectName": "ionic3-components",
+  "projectOwner": "yannbf",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "lohanidamodar",
+      "name": "Damodar Lohani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6360216?v=4",
+      "profile": "http://www.dlohani.com.np",
+      "contributions": [
+        "code",
+        "talk",
+        "design",
+        "blog"
+      ]
+    },
+    {
+      "login": "corysmc",
+      "name": "Cory McArthur",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6452188?v=4",
+      "profile": "https://github.com/corysmc",
+      "contributions": [
+        "code",
+        "talk",
+        "design"
+      ]
+    },
+    {
+      "login": "miguelcarrascoq",
+      "name": "mike-carr",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1894500?v=4",
+      "profile": "http://ServiciosGlobalesTecnologicos.com/",
+      "contributions": [
+        "plugin"
+      ]
+    },
+    {
+      "login": "Fdom92",
+      "name": "Fernando del olmo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7361737?v=4",
+      "profile": "https://fdom-website.firebaseapp.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "medeirosrafael",
+      "name": "medeirosrafael",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13787877?v=4",
+      "profile": "https://github.com/medeirosrafael",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "javico2609",
+      "name": "Javier",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12940555?v=4",
+      "profile": "https://github.com/javico2609",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "mazlanmohdnor",
+      "name": "Mohd Mazlan Bin Mohd Nor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5886788?v=4",
+      "profile": "http://mazlan.my",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "danielsogl",
+      "name": "Daniel Sogl",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15234844?v=4",
+      "profile": "https://github.com/danielsogl",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "jeronimonascimento",
+      "name": "Jerônimo do Nascimento",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16031907?v=4",
+      "profile": "https://github.com/jeronimonascimento",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mateusduraes",
+      "name": "Mateus Duraes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19319404?v=4",
+      "profile": "http://mateusduraes.github.io/",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "nazrdogan",
+      "name": "Nazır Doğan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1672303?v=4",
+      "profile": "https://github.com/nazrdogan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sletheren",
+      "name": "Abdelghafour Rakhma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12659402?v=4",
+      "profile": "http://www.fahrenbyte.com",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "AndreasGassmann",
+      "name": "AndreasGassmann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/680814?v=4",
+      "profile": "https://github.com/AndreasGassmann",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "lucascco",
+      "name": "Lucas Carvalho Corrêa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6581094?v=4",
+      "profile": "https://github.com/lucascco",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stephan-strate",
+      "name": "Stephan Strate",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19595615?v=4",
+      "profile": "https://www.stephan-strate.de/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
